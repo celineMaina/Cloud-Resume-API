@@ -1,0 +1,110 @@
+{
+    "Details": {
+      "name": "Meghan Maina",
+      "label": "Cloud Engineer",
+      "image": "",
+      "email": "meghancmaina@gmail.com",
+      "phone": "(254) 705102382",
+      "url": "https://github.com/celineMaina",
+      "summary": "I am a Cloud Engineer with a passion for technology and a desire to learn. I am a self-motivated individual who is always looking for ways to improve my skills and knowledge. I have experience working with cloud technologies such as AWS and Terraform. I am also proficient in programming languages such as Python, C++, and JavaScript. I am a team player who enjoys working with others to achieve common goals. I am looking for an opportunity to work with a dynamic team where I can contribute my skills and knowledge to help the organization achieve its objectives.",
+
+      "Location": {
+        "city": "Nairobi",
+        "countryCode": "Kenya",
+        "region": "East Africa"
+      },
+      "Profiles": [{
+        "network": "LinkedIn",
+        "username": "Meghan Maina",
+        "url": "www.linkedin.com/in/meghan-maina"
+      }]
+    },
+    "Experience": [{
+      "name": "CloudmyTribe",
+      "position": "Cloud Engineer",
+      "startDate": "May 2024",
+      "endDate": "August 2024",
+      "summary": "CloudmyTribe is a community of both upcoming and experienced cloud engineers who share knowledge and experiences in cloud computing. As a Cloud Engineer, I am responsible for managing cloud infrastructure, deploying applications, and monitoring performance through various hands-on projects. I also worked on automating processes using Terraform and Ansible.",
+      "highlights": [
+        "Learning advanced cloud computing and networking skills alongside my peers, with the aim of being the best junior cloud engineers worldwide."
+      ]
+    }],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "Jomo Kenyatta University of Agriculture and Technology",
+      "url": "www.jkuat.ac.ke",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "January 2021",
+      "endDate": "April 2025",
+      "expectedScore": "First Class Honors",
+        "courses": [
+            "Data Structures and Algorithms",
+            "Cloud Computing",
+            "Web Development"
+        ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "Hoping for an award soon."
+    }],
+    "certificates": [{
+      "name": "AWS Certified Cloud Practitioner",
+      "date": "May 2024",
+      "issuer": "AWS"
+      
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [{
+      "name": "Cloud Computing",
+      "level": "Master",
+        "keywords": [
+            "AWS",
+            "Terraform",
+            "Ansible"
+        ]
+    }],
+    "languages": [{
+      "language": "English",
+      "fluency": "Fluent speaker"
+    }],
+    "interests": [{
+      "name": "Books",
+      "keywords": [
+        "Atomic Habits",
+        "Non-fiction"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [{
+      "name": "Cloud Resume Challenge",
+      "startDate": "June 2024",
+      "endDate": "July 2024",
+      "description": "The Cloud Resume challenge is a beeginner friendly project to deploy a static website using AWS resources. The project involves creating a resume website using HTML, CSS, and JavaScript, and deploying it using AWS services like S3, CloudFront, and Route 53.",
+      "highlights": [
+        "Gained hands-on experience with AWS services"
+      ],
+      "url": "https://github.com/celineMaina/AWS-Cloud-Resume"
+    }]
+  }
