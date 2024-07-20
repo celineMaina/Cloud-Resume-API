@@ -1,328 +1,328 @@
 {
-    "Details": {
-      "M": {
-        "name": {
-          "S": "Meghan Maina"
-        },
-        "label": {
-          "S": "Cloud Engineer"
-        },
-        "image": {
-          "S": ""
-        },
-        "email": {
-          "S": "meghancmaina@gmail.com"
-        },
-        "phone": {
-          "S": "(254) 705102382"
-        },
-        "url": {
-          "S": "https://github.com/celineMaina"
-        },
-        "summary": {
-          "S": "I am a Cloud Engineer with a passion for technology and a desire to learn. I am a self-motivated individual who is always looking for ways to improve my skills and knowledge. I have experience working with cloud technologies such as AWS and Terraform. I am also proficient in programming languages such as Python, C++, and JavaScript. I am a team player who enjoys working with others to achieve common goals. I am looking for an opportunity to work with a dynamic team where I can contribute my skills and knowledge to help the organization achieve its objectives."
-        },
-        "Location": {
-          "M": {
-            "city": {
-              "S": "Nairobi"
-            },
-            "countryCode": {
-              "S": "Kenya"
-            },
-            "region": {
-              "S": "East Africa"
-            }
+  "Details": {
+    "M": {
+      "name": {
+        "S": "Meghan Maina"
+      },
+      "label": {
+        "S": "Cloud Engineer"
+      },
+      "image": {
+        "S": ""
+      },
+      "email": {
+        "S": "meghancmaina@gmail.com"
+      },
+      "phone": {
+        "S": "(254) 705102382"
+      },
+      "url": {
+        "S": "https://github.com/celineMaina"
+      },
+      "summary": {
+        "S": "I am a Cloud Engineer with a passion for technology and a desire to learn. I am a self-motivated individual who is always looking for ways to improve my skills and knowledge. I have experience working with cloud technologies such as AWS and Terraform. I am also proficient in programming languages such as Python, C++, and JavaScript. I am a team player who enjoys working with others to achieve common goals. I am looking for an opportunity to work with a dynamic team where I can contribute my skills and knowledge to help the organization achieve its objectives."
+      },
+      "Location": {
+        "M": {
+          "city": {
+            "S": "Nairobi"
+          },
+          "countryCode": {
+            "S": "Kenya"
+          },
+          "region": {
+            "S": "East Africa"
           }
-        },
-        "Profiles": {
-          "L": [
-            {
-              "M": {
-                "network": {
-                  "S": "LinkedIn"
-                },
-                "username": {
-                  "S": "Meghan Maina"
-                },
-                "url": {
-                  "S": "www.linkedin.com/in/meghan-maina"
-                }
+        }
+      },
+      "Profiles": {
+        "L": [
+          {
+            "M": {
+              "network": {
+                "S": "LinkedIn"
+              },
+              "username": {
+                "S": "Meghan Maina"
+              },
+              "url": {
+                "S": "www.linkedin.com/in/meghan-maina"
               }
             }
-          ]
+          }
+        ]
+      }
+    }
+  },
+  "Experience": {
+    "L": [
+      {
+        "M": {
+          "name": {
+            "S": "CloudmyTribe"
+          },
+          "position": {
+            "S": "Cloud Engineer"
+          },
+          "startDate": {
+            "S": "May 2024"
+          },
+          "endDate": {
+            "S": "August 2024"
+          },
+          "summary": {
+            "S": "CloudmyTribe is a community of both upcoming and experienced cloud engineers who share knowledge and experiences in cloud computing. As a Cloud Engineer, I am responsible for managing cloud infrastructure, deploying applications, and monitoring performance through various hands-on projects. I also worked on automating processes using Terraform and Ansible."
+          },
+          "highlights": {
+            "L": [
+              {
+                "S": "Learning advanced cloud computing and networking skills alongside my peers, with the aim of being the best junior cloud engineers worldwide."
+              }
+            ]
+          }
         }
       }
-    },
-    "Experience": {
-      "L": [
-        {
-          "M": {
-            "name": {
-              "S": "CloudmyTribe"
-            },
-            "position": {
-              "S": "Cloud Engineer"
-            },
-            "startDate": {
-              "S": "May 2024"
-            },
-            "endDate": {
-              "S": "August 2024"
-            },
-            "summary": {
-              "S": "CloudmyTribe is a community of both upcoming and experienced cloud engineers who share knowledge and experiences in cloud computing. As a Cloud Engineer, I am responsible for managing cloud infrastructure, deploying applications, and monitoring performance through various hands-on projects. I also worked on automating processes using Terraform and Ansible."
-            },
-            "highlights": {
-              "L": [
-                {
-                  "S": "Learning advanced cloud computing and networking skills alongside my peers, with the aim of being the best junior cloud engineers worldwide."
-                }
-              ]
-            }
+    ]
+  },
+  "volunteer": {
+    "L": [
+      {
+        "M": {
+          "organization": {
+            "S": "Organization"
+          },
+          "position": {
+            "S": "Volunteer"
+          },
+          "url": {
+            "S": "https://organization.com/"
+          },
+          "startDate": {
+            "S": "2012-01-01"
+          },
+          "endDate": {
+            "S": "2013-01-01"
+          },
+          "summary": {
+            "S": "Description…"
+          },
+          "highlights": {
+            "L": [
+              {
+                "S": "Awarded 'Volunteer of the Month'"
+              }
+            ]
           }
         }
-      ]
-    },
-    "volunteer": {
-      "L": [
-        {
-          "M": {
-            "organization": {
-              "S": "Organization"
-            },
-            "position": {
-              "S": "Volunteer"
-            },
-            "url": {
-              "S": "https://organization.com/"
-            },
-            "startDate": {
-              "S": "2012-01-01"
-            },
-            "endDate": {
-              "S": "2013-01-01"
-            },
-            "summary": {
-              "S": "Description…"
-            },
-            "highlights": {
-              "L": [
-                {
-                  "S": "Awarded 'Volunteer of the Month'"
-                }
-              ]
-            }
+      }
+    ]
+  },
+  "education": {
+    "L": [
+      {
+        "M": {
+          "institution": {
+            "S": "Jomo Kenyatta University of Agriculture and Technology"
+          },
+          "url": {
+            "S": "www.jkuat.ac.ke"
+          },
+          "area": {
+            "S": "Information Technology"
+          },
+          "studyType": {
+            "S": "Bachelor"
+          },
+          "startDate": {
+            "S": "January 2021"
+          },
+          "endDate": {
+            "S": "April 2025"
+          },
+          "expectedScore": {
+            "S": "First Class Honors"
+          },
+          "courses": {
+            "L": [
+              {
+                "S": "Data Structures and Algorithms"
+              },
+              {
+                "S": "Cloud Computing"
+              },
+              {
+                "S": "Web Development"
+              }
+            ]
           }
         }
-      ]
-    },
-    "education": {
-      "L": [
-        {
-          "M": {
-            "institution": {
-              "S": "Jomo Kenyatta University of Agriculture and Technology"
-            },
-            "url": {
-              "S": "www.jkuat.ac.ke"
-            },
-            "area": {
-              "S": "Information Technology"
-            },
-            "studyType": {
-              "S": "Bachelor"
-            },
-            "startDate": {
-              "S": "January 2021"
-            },
-            "endDate": {
-              "S": "April 2025"
-            },
-            "expectedScore": {
-              "S": "First Class Honors"
-            },
-            "courses": {
-              "L": [
-                {
-                  "S": "Data Structures and Algorithms"
-                },
-                {
-                  "S": "Cloud Computing"
-                },
-                {
-                  "S": "Web Development"
-                }
-              ]
-            }
+      }
+    ]
+  },
+  "awards": {
+    "L": [
+      {
+        "M": {
+          "title": {
+            "S": "Award"
+          },
+          "date": {
+            "S": "2014-11-01"
+          },
+          "awarder": {
+            "S": "Company"
+          },
+          "summary": {
+            "S": "Hoping for an award soon."
           }
         }
-      ]
-    },
-    "awards": {
-      "L": [
-        {
-          "M": {
-            "title": {
-              "S": "Award"
-            },
-            "date": {
-              "S": "2014-11-01"
-            },
-            "awarder": {
-              "S": "Company"
-            },
-            "summary": {
-              "S": "Hoping for an award soon."
-            }
+      }
+    ]
+  },
+  "certificates": {
+    "L": [
+      {
+        "M": {
+          "name": {
+            "S": "AWS Certified Cloud Practitioner"
+          },
+          "date": {
+            "S": "May 2024"
+          },
+          "issuer": {
+            "S": "AWS"
           }
         }
-      ]
-    },
-    "certificates": {
-      "L": [
-        {
-          "M": {
-            "name": {
-              "S": "AWS Certified Cloud Practitioner"
-            },
-            "date": {
-              "S": "May 2024"
-            },
-            "issuer": {
-              "S": "AWS"
-            }
+      }
+    ]
+  },
+  "publications": {
+    "L": [
+      {
+        "M": {
+          "name": {
+            "S": "Publication"
+          },
+          "publisher": {
+            "S": "Company"
+          },
+          "releaseDate": {
+            "S": "2014-10-01"
+          },
+          "url": {
+            "S": "https://publication.com"
+          },
+          "summary": {
+            "S": "Description…"
           }
         }
-      ]
-    },
-    "publications": {
-      "L": [
-        {
-          "M": {
-            "name": {
-              "S": "Publication"
-            },
-            "publisher": {
-              "S": "Company"
-            },
-            "releaseDate": {
-              "S": "2014-10-01"
-            },
-            "url": {
-              "S": "https://publication.com"
-            },
-            "summary": {
-              "S": "Description…"
-            }
+      }
+    ]
+  },
+  "skills": {
+    "L": [
+      {
+        "M": {
+          "name": {
+            "S": "Cloud Computing"
+          },
+          "level": {
+            "S": "Master"
+          },
+          "keywords": {
+            "L": [
+              {
+                "S": "AWS"
+              },
+              {
+                "S": "Terraform"
+              },
+              {
+                "S": "Ansible"
+              }
+            ]
           }
         }
-      ]
-    },
-    "skills": {
-      "L": [
-        {
-          "M": {
-            "name": {
-              "S": "Cloud Computing"
-            },
-            "level": {
-              "S": "Master"
-            },
-            "keywords": {
-              "L": [
-                {
-                  "S": "AWS"
-                },
-                {
-                  "S": "Terraform"
-                },
-                {
-                  "S": "Ansible"
-                }
-              ]
-            }
+      }
+    ]
+  },
+  "languages": {
+    "L": [
+      {
+        "M": {
+          "language": {
+            "S": "English"
+          },
+          "fluency": {
+            "S": "Fluent speaker"
           }
         }
-      ]
-    },
-    "languages": {
-      "L": [
-        {
-          "M": {
-            "language": {
-              "S": "English"
-            },
-            "fluency": {
-              "S": "Fluent speaker"
-            }
+      }
+    ]
+  },
+  "interests": {
+    "L": [
+      {
+        "M": {
+          "name": {
+            "S": "Books"
+          },
+          "keywords": {
+            "L": [
+              {
+                "S": "Atomic Habits"
+              },
+              {
+                "S": "Non-fiction"
+              }
+            ]
           }
         }
-      ]
-    },
-    "interests": {
-      "L": [
-        {
-          "M": {
-            "name": {
-              "S": "Books"
-            },
-            "keywords": {
-              "L": [
-                {
-                  "S": "Atomic Habits"
-                },
-                {
-                  "S": "Non-fiction"
-                }
-              ]
-            }
+      }
+    ]
+  },
+  "references": {
+    "L": [
+      {
+        "M": {
+          "name": {
+            "S": "Jane Doe"
+          },
+          "reference": {
+            "S": "Reference…"
           }
         }
-      ]
-    },
-    "references": {
-      "L": [
-        {
-          "M": {
-            "name": {
-              "S": "Jane Doe"
-            },
-            "reference": {
-              "S": "Reference…"
-            }
+      }
+    ]
+  },
+  "projects": {
+    "L": [
+      {
+        "M": {
+          "name": {
+            "S": "Cloud Resume Challenge"
+          },
+          "startDate": {
+            "S": "June 2024"
+          },
+          "endDate": {
+            "S": "July 2024"
+          },
+          "description": {
+            "S": "The Cloud Resume challenge is a beginner friendly project to deploy a static website using AWS resources. The project involves creating a resume website using HTML, CSS, and JavaScript, and deploying it using AWS services like S3, CloudFront, and Route 53."
+          },
+          "highlights": {
+            "L": [
+              {
+                "S": "Gained hands-on experience with AWS services"
+              }
+            ]
+          },
+          "url": {
+            "S": "https://github.com/celineMaina/AWS-Cloud-Resume"
           }
         }
-      ]
-    },
-    "projects": {
-      "L": [
-        {
-          "M": {
-            "name": {
-              "S": "Cloud Resume Challenge"
-            },
-            "startDate": {
-              "S": "June 2024"
-            },
-            "endDate": {
-              "S": "July 2024"
-            },
-            "description": {
-              "S": "The Cloud Resume challenge is a beeginner friendly project to deploy a static website using AWS resources. The project involves creating a resume website using HTML, CSS, and JavaScript, and deploying it using AWS services like S3, CloudFront, and Route 53."
-            },
-            "highlights": {
-              "L": [
-                {
-                  "S": "Gained hands-on experience with AWS services"
-                }
-              ]
-            },
-            "url": {
-              "S": "https://github.com/celineMaina/AWS-Cloud-Resume"
-            }
-          }
-        }
-      ]
-    }
+      }
+    ]
   }
+}
