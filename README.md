@@ -32,8 +32,8 @@ Here's what you need to complete this project:
   Connect your Github to Terraform Cloud to automatically manage your terraform states.
   Add your AWS credentials such as the access key and secret key to Terraform cloud. Remember to flag it as sensitive.
   
-- ### Use Github Actions.
-  Create a github workflow to automate testing changes you make to your code.
+- ### Create a CI/CD Pipeline.
+  Use GitHub Actions to create a github workflow to automate testing changes you make to your code.
 
 ## Summary.
 This project demonstrates a serverless architecture for a Resume API using AWS Lambda and DynamoDB. The Lambda function retrieves resume data from DynamoDB and returns it in JSON format. The setup incorporates GitHub Actions for automated deployment and Terraform Cloud for infrastructure management and resource provisioning. 
