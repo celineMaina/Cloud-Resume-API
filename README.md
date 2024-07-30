@@ -13,7 +13,8 @@ Here's what you will need to complete this project:
 
 ## Architecture Diagram
 
-![Cloud Resume API (2)](https://github.com/user-attachments/assets/70e7cb43-06fd-43dd-8b2f-da76c45f8523)
+![Architecture Diagram](https://github.com/user-attachments/assets/b878a36f-b61a-4077-a3c2-73d8d7c4a51d)
+
 
 ### How It Works.
 - **API Gateway**: Routes requests to the AWS Lambda function.
