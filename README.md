@@ -36,7 +36,7 @@ Here's what you need to complete this project:
   Create a github workflow to automate testing changes you make to your code.
 
 ## Summary.
-This project demonstrates a serverless architecture for a Resume API using AWS Lambda and DynamoDB. The Lambda function retrieves resume data from DynamoDB and returns it in JSON format. The setup incorporates GitHub Actions for automated deployment and Terraform Cloud for infrastructure management and resource provisioning. Additionally, I have added a React frontend to provide appealing visuals and an interactive user interface for displaying the resume data.
+This project demonstrates a serverless architecture for a Resume API using AWS Lambda and DynamoDB. The Lambda function retrieves resume data from DynamoDB and returns it in JSON format. The setup incorporates GitHub Actions for automated deployment and Terraform Cloud for infrastructure management and resource provisioning. 
 
 **API Endpoint**:
 ```
