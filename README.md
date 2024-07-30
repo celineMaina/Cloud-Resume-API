@@ -33,7 +33,7 @@ Here's what you need to complete this project:
   Add your AWS credentials such as the access key and secret key to Terraform cloud. Remember to flag it as sensitive.
   
 - ### Use Github Actions.
- Create a github workflow to automate testing changes you make to your code. 
+  Create a github workflow to automate testing changes you make to your code. 
   
 
 **API Endpoint**:
